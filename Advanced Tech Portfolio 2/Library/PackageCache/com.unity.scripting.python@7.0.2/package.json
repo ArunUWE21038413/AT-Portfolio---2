@@ -30,6 +30,5 @@
       "description": "Demonstrates how to build a custom tool with a PySide UI with two-way interaction with Unity: it inspects the Unity scene to get the list of cameras, but also Unity tells the UI when cameras are added.",
       "path": "Samples~/PySideExample"
     }
-  ],
-  "_fingerprint": "a2e4be8db734c0ac49735406fa55381de8a9d90f"
+  ]
 }
